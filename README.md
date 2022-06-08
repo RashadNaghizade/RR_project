@@ -1,5 +1,3 @@
-# RR_project
-
 # Model and Visualize Mental Health in Tech 
 
 ## Table of contents
