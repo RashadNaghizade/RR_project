@@ -59,4 +59,4 @@ Our contribution to the study was to examine whether the results will not change
 
 ## Main conclusions
 
-
+As a conclusion we want to mention main parts of the project.The original data had 1483 rows while our new data which we got from survey, had 50. If we consider that number of new observations compared to main one is less, it is acceptable that we are not to see extreme difference on results. Although to this, we can notice that it was affected by small percentage of changes which is normal in this case.However for better understanding, we uploaded the same 3 separate codes, but with different data, one with original, one with new observations and another with merged of both of these, with pictures of plots.
